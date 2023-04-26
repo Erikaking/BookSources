@@ -2,8 +2,7 @@
 
 主要来源于各位大佬的分享，以及源仓库：https://www.yckceo.com
 
-全部200书源：https://fastly.jsdelivr.net/gh/Erikaking/BookSources@master/all/all.json
-
+全部200+书源：https://fastly.jsdelivr.net/gh/Erikaking/BookSources@master/all/all.json
 
 #各分类地址：
 
